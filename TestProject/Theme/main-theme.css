@@ -1,0 +1,17 @@
+.navbar{
+    background-color: lightsalmon;
+    text-align: right;
+}
+body{
+    background-color: coral;
+}
+button{
+    border: solid 1px black;
+    height: 35px;
+    width: 135px;
+    border-radius: 25px;
+    background-color: white;
+    font-weight: bold;
+    background-image: linear-gradient(red, orange);
+    margin: 15px;
+}
